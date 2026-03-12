@@ -1,0 +1,433 @@
+doc_id,title,text,source
+0001,Reembolso: Qual o prazo para solicitar reembolso?,"**Pergunta:** Qual o prazo para solicitar reembolso?
+
+**Resposta:** Você pode solicitar reembolso em até 7 dias corridos após a primeira compra (compras online). Após esse prazo, avaliamos conforme o tipo de plano e uso do serviço.",financeiro
+0002,Cancelamento: O que acontece após o cancelamento?,"**Pergunta:** O que acontece após o cancelamento?
+
+**Resposta:** Você mantém acesso até o fim do ciclo vigente. Depois disso, a conta entra em modo somente-leitura por 30 dias para exportação.",financeiro
+0003,LGPD: Como solicitar exclusão dos meus dados?,"**Pergunta:** Como solicitar exclusão dos meus dados?
+
+**Resposta:** Você pode solicitar exclusão via canal de privacidade. Confirmaremos a identidade do solicitante e responderemos nos prazos legais, mantendo apenas o que for obrigatório por lei.",lgpd
+0004,Suporte: Qual é o tempo de resposta do suporte (SLA)?,"**Pergunta:** Qual é o tempo de resposta do suporte (SLA)?
+
+**Resposta:** O SLA varia por plano. Padrão: até 1 dia útil. Prioritário: até 4 horas úteis para incidentes críticos, em planos elegíveis.",suporte
+1,Conta e Dados: Como exportar meus dados?,"**Pergunta:** Como exportar meus dados?
+
+**Resposta:** Você pode exportar dados em formatos comuns (CSV/JSON) pelo painel, quando o recurso estiver habilitado.",produto
+2,Integrações: Há API pública?,"**Pergunta:** Há API pública?
+
+**Resposta:** Webhooks podem ser configurados no painel de integrações, definindo eventos e URL de destino.",produto
+3,Faturas e Nota Fiscal: Onde encontro minhas faturas?,"**Pergunta:** Onde encontro minhas faturas?
+
+**Resposta:** As faturas ficam disponíveis no painel em Conta → Faturas. Você pode baixar em PDF a qualquer momento.",financeiro
+4,Conta e Dados: Como exportar meus dados?,"**Pergunta:** Como exportar meus dados?
+
+**Resposta:** Admins podem gerenciar usuários, permissões e acessos em Conta → Usuários e Permissões.",produto
+5,Reembolso: Como funciona a política de reembolso?,"**Pergunta:** Como funciona a política de reembolso?
+
+**Resposta:** Você pode solicitar reembolso em até 7 dias corridos após a primeira compra, conforme o Código de Defesa do Consumidor para compras online. Após esse prazo, avaliamos caso a caso conforme o tipo de plano e o uso do serviço.",financeiro
+6,Faturas e Nota Fiscal: Onde encontro minhas faturas?,"**Pergunta:** Onde encontro minhas faturas?
+
+**Resposta:** As faturas ficam disponíveis no painel em Conta → Faturas. Você pode baixar em PDF a qualquer momento.",financeiro
+7,Suporte e SLA: Qual é o tempo de resposta do suporte (SLA)?,"**Pergunta:** Qual é o tempo de resposta do suporte (SLA)?
+
+**Resposta:** Suporte prioritário está disponível em planos avançados ou como adicional para empresas.",suporte
+8,Faturas e Nota Fiscal: Qual é o CNPJ emissor e a natureza do serviço?,"**Pergunta:** Qual é o CNPJ emissor e a natureza do serviço?
+
+**Resposta:** Para corrigir dados de faturamento, atualize o cadastro antes do próximo ciclo. Notas emitidas não podem ser alteradas, mas podemos emitir carta de correção quando aplicável.",financeiro
+9,Treinamento e Onboarding: Como funciona o onboarding inicial?,"**Pergunta:** Como funciona o onboarding inicial?
+
+**Resposta:** Treinamentos podem ser oferecidos ao vivo (quando contratado) ou via vídeos e artigos na central de ajuda.",sucesso_cliente
+10,Integrações: Como revogar um token de integração?,"**Pergunta:** Como revogar um token de integração?
+
+**Resposta:** API pode estar disponível para clientes empresariais. Consulte a documentação e as chaves de acesso.",produto
+11,Planos e Upgrade: Como faço upgrade ou downgrade de plano?,"**Pergunta:** Como faço upgrade ou downgrade de plano?
+
+**Resposta:** Upgrade é aplicado imediatamente, com cobrança proporcional do período restante. Downgrade entra em vigor na próxima renovação.",produto
+12,Treinamento e Onboarding: Existe central de ajuda com tutoriais?,"**Pergunta:** Existe central de ajuda com tutoriais?
+
+**Resposta:** O onboarding inclui guia inicial, checklist de configuração e recomendações de melhores práticas.",sucesso_cliente
+13,Cancelamento: Há multa de cancelamento?,"**Pergunta:** Há multa de cancelamento?
+
+**Resposta:** O cancelamento pode ser feito no painel do cliente em Conta → Assinatura. Ao confirmar, a renovação automática é desativada.",financeiro
+14,Acesso e Login: Posso usar login com Google/Microsoft?,"**Pergunta:** Posso usar login com Google/Microsoft?
+
+**Resposta:** Login social (Google/Microsoft) pode estar disponível dependendo do seu plano e das configurações da empresa.",suporte
+15,Treinamento e Onboarding: Como funciona o onboarding inicial?,"**Pergunta:** Como funciona o onboarding inicial?
+
+**Resposta:** Para implantação assistida, solicite uma sessão com o time de sucesso do cliente pelo portal.",sucesso_cliente
+16,Suporte e SLA: Quais canais de suporte estão disponíveis?,"**Pergunta:** Quais canais de suporte estão disponíveis?
+
+**Resposta:** Suporte prioritário está disponível em planos avançados ou como adicional para empresas.",suporte
+17,Cancelamento: Posso pausar a assinatura?,"**Pergunta:** Posso pausar a assinatura?
+
+**Resposta:** Não há multa para cancelamento de planos mensais. Em planos anuais, pode haver cálculo proporcional conforme contrato.",financeiro
+18,Uso Aceitável: Posso compartilhar minha conta com terceiros?,"**Pergunta:** Posso compartilhar minha conta com terceiros?
+
+**Resposta:** Uso indevido inclui: automações abusivas, tentativa de explorar falhas, engenharia reversa e violação de direitos de terceiros.",compliance
+19,Reembolso: Em quais casos tenho direito a reembolso?,"**Pergunta:** Em quais casos tenho direito a reembolso?
+
+**Resposta:** Para solicitar, abra um ticket com o e-mail cadastrado, informe o motivo e anexe comprovantes (quando aplicável). O retorno ocorre em até 2 dias úteis.",financeiro
+20,Cancelamento: O que acontece após o cancelamento?,"**Pergunta:** O que acontece após o cancelamento?
+
+**Resposta:** O cancelamento pode ser feito no painel do cliente em Conta → Assinatura. Ao confirmar, a renovação automática é desativada.",financeiro
+21,Segurança: Existe controle de acesso por perfil?,"**Pergunta:** Existe controle de acesso por perfil?
+
+**Resposta:** Realizamos backups regulares e temos procedimentos de recuperação para incidentes, com retenção conforme o plano.",seguranca
+22,Conta e Dados: Posso recuperar dados apagados?,"**Pergunta:** Posso recuperar dados apagados?
+
+**Resposta:** Para excluir a conta, solicite pelo painel ou suporte. Podemos manter dados mínimos para obrigações legais.",produto
+23,Acesso e Login: Posso usar login com Google/Microsoft?,"**Pergunta:** Posso usar login com Google/Microsoft?
+
+**Resposta:** O 2FA pode ser ativado em Conta → Segurança. Após ativar, você precisará do código do aplicativo autenticador.",suporte
+24,Conta e Dados: Posso recuperar dados apagados?,"**Pergunta:** Posso recuperar dados apagados?
+
+**Resposta:** Você pode exportar dados em formatos comuns (CSV/JSON) pelo painel, quando o recurso estiver habilitado.",produto
+25,Uso Aceitável: Posso compartilhar minha conta com terceiros?,"**Pergunta:** Posso compartilhar minha conta com terceiros?
+
+**Resposta:** Contas são individuais por usuário. Compartilhar credenciais não é permitido por segurança e auditoria.",compliance
+26,Cobrança: Posso pagar via boleto?,"**Pergunta:** Posso pagar via boleto?
+
+**Resposta:** Boleto pode estar disponível apenas para planos anuais ou empresas (B2B), sujeito a análise.",financeiro
+27,Planos e Upgrade: Como faço upgrade ou downgrade de plano?,"**Pergunta:** Como faço upgrade ou downgrade de plano?
+
+**Resposta:** Seus dados permanecem na conta ao trocar de plano. Alguns recursos podem ficar indisponíveis dependendo do novo plano.",produto
+28,Treinamento e Onboarding: Como funciona o onboarding inicial?,"**Pergunta:** Como funciona o onboarding inicial?
+
+**Resposta:** Treinamentos podem ser oferecidos ao vivo (quando contratado) ou via vídeos e artigos na central de ajuda.",sucesso_cliente
+29,Reembolso: Qual o prazo para solicitar reembolso?,"**Pergunta:** Qual o prazo para solicitar reembolso?
+
+**Resposta:** O estorno no cartão pode levar de 5 a 15 dias úteis, dependendo da operadora. Para boleto, realizamos transferência em conta indicada pelo titular.",financeiro
+30,Planos e Upgrade: Quais planos a empresa oferece?,"**Pergunta:** Quais planos a empresa oferece?
+
+**Resposta:** Upgrade é aplicado imediatamente, com cobrança proporcional do período restante. Downgrade entra em vigor na próxima renovação.",produto
+31,Uso Aceitável: Há limite de requisições/uso?,"**Pergunta:** Há limite de requisições/uso?
+
+**Resposta:** Contas são individuais por usuário. Compartilhar credenciais não é permitido por segurança e auditoria.",compliance
+32,Conta e Dados: Como gerenciar usuários e permissões?,"**Pergunta:** Como gerenciar usuários e permissões?
+
+**Resposta:** Admins podem gerenciar usuários, permissões e acessos em Conta → Usuários e Permissões.",produto
+33,Conta e Dados: Como gerenciar usuários e permissões?,"**Pergunta:** Como gerenciar usuários e permissões?
+
+**Resposta:** Para excluir a conta, solicite pelo painel ou suporte. Podemos manter dados mínimos para obrigações legais.",produto
+34,Planos e Upgrade: Como faço upgrade ou downgrade de plano?,"**Pergunta:** Como faço upgrade ou downgrade de plano?
+
+**Resposta:** Upgrade é aplicado imediatamente, com cobrança proporcional do período restante. Downgrade entra em vigor na próxima renovação.",produto
+35,Integrações: Há API pública?,"**Pergunta:** Há API pública?
+
+**Resposta:** Você pode revogar tokens a qualquer momento no painel de integrações para interromper acessos.",produto
+36,Uso Aceitável: O que acontece se eu violar as regras de uso?,"**Pergunta:** O que acontece se eu violar as regras de uso?
+
+**Resposta:** Podemos aplicar limites de requisição para proteger a estabilidade. Em picos, a conta pode ser temporariamente limitada.",compliance
+37,Faturas e Nota Fiscal: Onde encontro minhas faturas?,"**Pergunta:** Onde encontro minhas faturas?
+
+**Resposta:** O CNPJ emissor e a natureza do serviço aparecem na própria nota fiscal e na área de faturamento do painel.",financeiro
+38,Cancelamento: Como faço para cancelar minha assinatura?,"**Pergunta:** Como faço para cancelar minha assinatura?
+
+**Resposta:** O cancelamento pode ser feito no painel do cliente em Conta → Assinatura. Ao confirmar, a renovação automática é desativada.",financeiro
+39,Cobrança: O que fazer se minha cobrança veio duplicada?,"**Pergunta:** O que fazer se minha cobrança veio duplicada?
+
+**Resposta:** Boleto pode estar disponível apenas para planos anuais ou empresas (B2B), sujeito a análise.",financeiro
+40,Uso Aceitável: O que é considerado uso indevido da plataforma?,"**Pergunta:** O que é considerado uso indevido da plataforma?
+
+**Resposta:** Violações podem levar a suspensão temporária ou encerramento da conta, conforme gravidade e reincidência.",compliance
+41,Segurança: Vocês realizam backups?,"**Pergunta:** Vocês realizam backups?
+
+**Resposta:** Há permissões por perfil (admin/gestor/analista) e registro de ações relevantes (logs) para auditoria.",seguranca
+42,Suporte e SLA: Quais canais de suporte estão disponíveis?,"**Pergunta:** Quais canais de suporte estão disponíveis?
+
+**Resposta:** O suporte está disponível via e-mail e portal de tickets. Em planos elegíveis, também via chat.",suporte
+43,Conta e Dados: Posso recuperar dados apagados?,"**Pergunta:** Posso recuperar dados apagados?
+
+**Resposta:** Recuperação de itens apagados depende do tipo de dado e do prazo. Em geral, há uma janela limitada para restauração.",produto
+44,Cancelamento: Posso pausar a assinatura?,"**Pergunta:** Posso pausar a assinatura?
+
+**Resposta:** Pausas não são suportadas em todos os planos. Caso precise, fale com o suporte para avaliarmos alternativas.",financeiro
+45,Cobrança: Posso pagar via boleto?,"**Pergunta:** Posso pagar via boleto?
+
+**Resposta:** A cobrança ocorre no início de cada ciclo (mensal/anual), na data da contratação ou da renovação.",financeiro
+46,Integrações: Há API pública?,"**Pergunta:** Há API pública?
+
+**Resposta:** Webhooks podem ser configurados no painel de integrações, definindo eventos e URL de destino.",produto
+47,Suporte e SLA: Quais canais de suporte estão disponíveis?,"**Pergunta:** Quais canais de suporte estão disponíveis?
+
+**Resposta:** Para abrir um ticket, informe: descrição, passos para reproduzir, prints/logs e impacto no negócio.",suporte
+48,Conta e Dados: Como excluir minha conta?,"**Pergunta:** Como excluir minha conta?
+
+**Resposta:** Para excluir a conta, solicite pelo painel ou suporte. Podemos manter dados mínimos para obrigações legais.",produto
+49,Acesso e Login: Como ativar autenticação em dois fatores (2FA)?,"**Pergunta:** Como ativar autenticação em dois fatores (2FA)?
+
+**Resposta:** Para recuperar a senha, use ‘Esqueci minha senha’ na tela de login. Enviaremos um link para o e-mail cadastrado.",suporte
+50,Uso Aceitável: Há limite de requisições/uso?,"**Pergunta:** Há limite de requisições/uso?
+
+**Resposta:** Violações podem levar a suspensão temporária ou encerramento da conta, conforme gravidade e reincidência.",compliance
+51,Reembolso: Como funciona a política de reembolso?,"**Pergunta:** Como funciona a política de reembolso?
+
+**Resposta:** Para solicitar, abra um ticket com o e-mail cadastrado, informe o motivo e anexe comprovantes (quando aplicável). O retorno ocorre em até 2 dias úteis.",financeiro
+52,Treinamento e Onboarding: Existe central de ajuda com tutoriais?,"**Pergunta:** Existe central de ajuda com tutoriais?
+
+**Resposta:** Treinamentos podem ser oferecidos ao vivo (quando contratado) ou via vídeos e artigos na central de ajuda.",sucesso_cliente
+53,Reembolso: Em quais casos tenho direito a reembolso?,"**Pergunta:** Em quais casos tenho direito a reembolso?
+
+**Resposta:** Você pode solicitar reembolso em até 7 dias corridos após a primeira compra, conforme o Código de Defesa do Consumidor para compras online. Após esse prazo, avaliamos caso a caso conforme o tipo de plano e o uso do serviço.",financeiro
+54,Cancelamento: Há multa de cancelamento?,"**Pergunta:** Há multa de cancelamento?
+
+**Resposta:** O cancelamento pode ser feito no painel do cliente em Conta → Assinatura. Ao confirmar, a renovação automática é desativada.",financeiro
+55,Treinamento e Onboarding: Vocês oferecem treinamento para a equipe?,"**Pergunta:** Vocês oferecem treinamento para a equipe?
+
+**Resposta:** Treinamentos podem ser oferecidos ao vivo (quando contratado) ou via vídeos e artigos na central de ajuda.",sucesso_cliente
+56,Conta e Dados: Como gerenciar usuários e permissões?,"**Pergunta:** Como gerenciar usuários e permissões?
+
+**Resposta:** Para excluir a conta, solicite pelo painel ou suporte. Podemos manter dados mínimos para obrigações legais.",produto
+57,Planos e Upgrade: O plano tem limite de usuários?,"**Pergunta:** O plano tem limite de usuários?
+
+**Resposta:** Upgrade é aplicado imediatamente, com cobrança proporcional do período restante. Downgrade entra em vigor na próxima renovação.",produto
+58,Suporte e SLA: Qual é o tempo de resposta do suporte (SLA)?,"**Pergunta:** Qual é o tempo de resposta do suporte (SLA)?
+
+**Resposta:** Para abrir um ticket, informe: descrição, passos para reproduzir, prints/logs e impacto no negócio.",suporte
+59,Segurança: Existe controle de acesso por perfil?,"**Pergunta:** Existe controle de acesso por perfil?
+
+**Resposta:** Realizamos backups regulares e temos procedimentos de recuperação para incidentes, com retenção conforme o plano.",seguranca
+60,Suporte e SLA: Vocês oferecem suporte prioritário?,"**Pergunta:** Vocês oferecem suporte prioritário?
+
+**Resposta:** O suporte está disponível via e-mail e portal de tickets. Em planos elegíveis, também via chat.",suporte
+61,Faturas e Nota Fiscal: Onde encontro minhas faturas?,"**Pergunta:** Onde encontro minhas faturas?
+
+**Resposta:** As faturas ficam disponíveis no painel em Conta → Faturas. Você pode baixar em PDF a qualquer momento.",financeiro
+62,Acesso e Login: Esqueci minha senha. Como recuperar?,"**Pergunta:** Esqueci minha senha. Como recuperar?
+
+**Resposta:** O 2FA pode ser ativado em Conta → Segurança. Após ativar, você precisará do código do aplicativo autenticador.",suporte
+63,Uso Aceitável: Posso compartilhar minha conta com terceiros?,"**Pergunta:** Posso compartilhar minha conta com terceiros?
+
+**Resposta:** Uso indevido inclui: automações abusivas, tentativa de explorar falhas, engenharia reversa e violação de direitos de terceiros.",compliance
+64,Cancelamento: Como faço para cancelar minha assinatura?,"**Pergunta:** Como faço para cancelar minha assinatura?
+
+**Resposta:** Após o cancelamento, você mantém acesso até o fim do ciclo vigente. Depois disso, a conta entra em modo somente-leitura por 30 dias para exportação.",financeiro
+65,Cancelamento: Como faço para cancelar minha assinatura?,"**Pergunta:** Como faço para cancelar minha assinatura?
+
+**Resposta:** Não há multa para cancelamento de planos mensais. Em planos anuais, pode haver cálculo proporcional conforme contrato.",financeiro
+66,Cancelamento: O que acontece após o cancelamento?,"**Pergunta:** O que acontece após o cancelamento?
+
+**Resposta:** Não há multa para cancelamento de planos mensais. Em planos anuais, pode haver cálculo proporcional conforme contrato.",financeiro
+67,Conta e Dados: Como gerenciar usuários e permissões?,"**Pergunta:** Como gerenciar usuários e permissões?
+
+**Resposta:** Para excluir a conta, solicite pelo painel ou suporte. Podemos manter dados mínimos para obrigações legais.",produto
+68,Suporte e SLA: Qual é o tempo de resposta do suporte (SLA)?,"**Pergunta:** Qual é o tempo de resposta do suporte (SLA)?
+
+**Resposta:** Suporte prioritário está disponível em planos avançados ou como adicional para empresas.",suporte
+69,Faturas e Nota Fiscal: Qual é o CNPJ emissor e a natureza do serviço?,"**Pergunta:** Qual é o CNPJ emissor e a natureza do serviço?
+
+**Resposta:** O CNPJ emissor e a natureza do serviço aparecem na própria nota fiscal e na área de faturamento do painel.",financeiro
+70,Faturas e Nota Fiscal: Como emitir nota fiscal?,"**Pergunta:** Como emitir nota fiscal?
+
+**Resposta:** As faturas ficam disponíveis no painel em Conta → Faturas. Você pode baixar em PDF a qualquer momento.",financeiro
+71,Conta e Dados: Como gerenciar usuários e permissões?,"**Pergunta:** Como gerenciar usuários e permissões?
+
+**Resposta:** Recuperação de itens apagados depende do tipo de dado e do prazo. Em geral, há uma janela limitada para restauração.",produto
+72,Segurança: Vocês realizam backups?,"**Pergunta:** Vocês realizam backups?
+
+**Resposta:** Realizamos backups regulares e temos procedimentos de recuperação para incidentes, com retenção conforme o plano.",seguranca
+73,Integrações: Quais integrações estão disponíveis?,"**Pergunta:** Quais integrações estão disponíveis?
+
+**Resposta:** Oferecemos integrações com ferramentas comuns (ex.: e-mail, CRM, webhooks) conforme o plano.",produto
+74,Reembolso: Como é calculado o reembolso em cancelamento antecipado?,"**Pergunta:** Como é calculado o reembolso em cancelamento antecipado?
+
+**Resposta:** Para solicitar, abra um ticket com o e-mail cadastrado, informe o motivo e anexe comprovantes (quando aplicável). O retorno ocorre em até 2 dias úteis.",financeiro
+75,Treinamento e Onboarding: Como funciona o onboarding inicial?,"**Pergunta:** Como funciona o onboarding inicial?
+
+**Resposta:** Treinamentos podem ser oferecidos ao vivo (quando contratado) ou via vídeos e artigos na central de ajuda.",sucesso_cliente
+76,Faturas e Nota Fiscal: Onde encontro minhas faturas?,"**Pergunta:** Onde encontro minhas faturas?
+
+**Resposta:** O CNPJ emissor e a natureza do serviço aparecem na própria nota fiscal e na área de faturamento do painel.",financeiro
+77,Cobrança: Posso pagar via boleto?,"**Pergunta:** Posso pagar via boleto?
+
+**Resposta:** Se houver duplicidade, abra um ticket com o comprovante. Investigamos e, se confirmado, realizamos estorno imediatamente.",financeiro
+78,Planos e Upgrade: O plano tem limite de usuários?,"**Pergunta:** O plano tem limite de usuários?
+
+**Resposta:** Upgrade é aplicado imediatamente, com cobrança proporcional do período restante. Downgrade entra em vigor na próxima renovação.",produto
+79,Cancelamento: Há multa de cancelamento?,"**Pergunta:** Há multa de cancelamento?
+
+**Resposta:** O cancelamento pode ser feito no painel do cliente em Conta → Assinatura. Ao confirmar, a renovação automática é desativada.",financeiro
+80,Reembolso: Como funciona a política de reembolso?,"**Pergunta:** Como funciona a política de reembolso?
+
+**Resposta:** Você pode solicitar reembolso em até 7 dias corridos após a primeira compra, conforme o Código de Defesa do Consumidor para compras online. Após esse prazo, avaliamos caso a caso conforme o tipo de plano e o uso do serviço.",financeiro
+81,Treinamento e Onboarding: Vocês oferecem treinamento para a equipe?,"**Pergunta:** Vocês oferecem treinamento para a equipe?
+
+**Resposta:** Treinamentos podem ser oferecidos ao vivo (quando contratado) ou via vídeos e artigos na central de ajuda.",sucesso_cliente
+82,Segurança: Vocês realizam backups?,"**Pergunta:** Vocês realizam backups?
+
+**Resposta:** Realizamos backups regulares e temos procedimentos de recuperação para incidentes, com retenção conforme o plano.",seguranca
+83,Faturas e Nota Fiscal: Qual é o CNPJ emissor e a natureza do serviço?,"**Pergunta:** Qual é o CNPJ emissor e a natureza do serviço?
+
+**Resposta:** As faturas ficam disponíveis no painel em Conta → Faturas. Você pode baixar em PDF a qualquer momento.",financeiro
+84,Cobrança: Posso pagar via boleto?,"**Pergunta:** Posso pagar via boleto?
+
+**Resposta:** A cobrança ocorre no início de cada ciclo (mensal/anual), na data da contratação ou da renovação.",financeiro
+85,Segurança: Existe controle de acesso por perfil?,"**Pergunta:** Existe controle de acesso por perfil?
+
+**Resposta:** Realizamos backups regulares e temos procedimentos de recuperação para incidentes, com retenção conforme o plano.",seguranca
+86,Planos e Upgrade: O plano tem limite de usuários?,"**Pergunta:** O plano tem limite de usuários?
+
+**Resposta:** Os planos podem ter limites de usuários, projetos ou armazenamento. Você pode contratar adicionais em alguns casos.",produto
+87,Cobrança: O que fazer se minha cobrança veio duplicada?,"**Pergunta:** O que fazer se minha cobrança veio duplicada?
+
+**Resposta:** Você pode atualizar o método de pagamento no painel em Conta → Pagamento. A atualização vale para próximas renovações.",financeiro
+88,Faturas e Nota Fiscal: Como emitir nota fiscal?,"**Pergunta:** Como emitir nota fiscal?
+
+**Resposta:** As faturas ficam disponíveis no painel em Conta → Faturas. Você pode baixar em PDF a qualquer momento.",financeiro
+89,Integrações: Há API pública?,"**Pergunta:** Há API pública?
+
+**Resposta:** Oferecemos integrações com ferramentas comuns (ex.: e-mail, CRM, webhooks) conforme o plano.",produto
+90,Reembolso: Como é calculado o reembolso em cancelamento antecipado?,"**Pergunta:** Como é calculado o reembolso em cancelamento antecipado?
+
+**Resposta:** Reembolsos são aplicáveis quando há cobrança indevida, erro de processamento ou quando a solicitação ocorre dentro do período de arrependimento (7 dias).",financeiro
+91,Reembolso: Como funciona a política de reembolso?,"**Pergunta:** Como funciona a política de reembolso?
+
+**Resposta:** Reembolsos são aplicáveis quando há cobrança indevida, erro de processamento ou quando a solicitação ocorre dentro do período de arrependimento (7 dias).",financeiro
+92,Cancelamento: Como faço para cancelar minha assinatura?,"**Pergunta:** Como faço para cancelar minha assinatura?
+
+**Resposta:** Após o cancelamento, você mantém acesso até o fim do ciclo vigente. Depois disso, a conta entra em modo somente-leitura por 30 dias para exportação.",financeiro
+93,Segurança: Como a empresa protege meus dados?,"**Pergunta:** Como a empresa protege meus dados?
+
+**Resposta:** Dados em trânsito utilizam TLS. Dados sensíveis podem ser criptografados em repouso conforme o tipo de informação.",seguranca
+94,Uso Aceitável: O que é considerado uso indevido da plataforma?,"**Pergunta:** O que é considerado uso indevido da plataforma?
+
+**Resposta:** Uso indevido inclui: automações abusivas, tentativa de explorar falhas, engenharia reversa e violação de direitos de terceiros.",compliance
+95,Segurança: Existe controle de acesso por perfil?,"**Pergunta:** Existe controle de acesso por perfil?
+
+**Resposta:** Há permissões por perfil (admin/gestor/analista) e registro de ações relevantes (logs) para auditoria.",seguranca
+96,Faturas e Nota Fiscal: Posso alterar dados de faturamento?,"**Pergunta:** Posso alterar dados de faturamento?
+
+**Resposta:** Emitimos nota fiscal eletrônica automaticamente para assinaturas ativas. Os dados fiscais são os informados no cadastro.",financeiro
+97,Planos e Upgrade: O plano tem limite de usuários?,"**Pergunta:** O plano tem limite de usuários?
+
+**Resposta:** Upgrade é aplicado imediatamente, com cobrança proporcional do período restante. Downgrade entra em vigor na próxima renovação.",produto
+98,Conta e Dados: Posso recuperar dados apagados?,"**Pergunta:** Posso recuperar dados apagados?
+
+**Resposta:** Admins podem gerenciar usuários, permissões e acessos em Conta → Usuários e Permissões.",produto
+99,Acesso e Login: Esqueci minha senha. Como recuperar?,"**Pergunta:** Esqueci minha senha. Como recuperar?
+
+**Resposta:** Para recuperar a senha, use ‘Esqueci minha senha’ na tela de login. Enviaremos um link para o e-mail cadastrado.",suporte
+100,Privacidade e LGPD: Quais dados pessoais são coletados?,"**Pergunta:** Quais dados pessoais são coletados?
+
+**Resposta:** Coletamos dados necessários para cadastro, faturamento e uso do serviço (ex.: nome, e-mail, registros de acesso e uso).",lgpd
+101,Suporte e SLA: Qual é o tempo de resposta do suporte (SLA)?,"**Pergunta:** Qual é o tempo de resposta do suporte (SLA)?
+
+**Resposta:** Para abrir um ticket, informe: descrição, passos para reproduzir, prints/logs e impacto no negócio.",suporte
+102,Cobrança: Como atualizar o cartão de pagamento?,"**Pergunta:** Como atualizar o cartão de pagamento?
+
+**Resposta:** A cobrança ocorre no início de cada ciclo (mensal/anual), na data da contratação ou da renovação.",financeiro
+103,Faturas e Nota Fiscal: Posso alterar dados de faturamento?,"**Pergunta:** Posso alterar dados de faturamento?
+
+**Resposta:** Para corrigir dados de faturamento, atualize o cadastro antes do próximo ciclo. Notas emitidas não podem ser alteradas, mas podemos emitir carta de correção quando aplicável.",financeiro
+104,Cobrança: Posso pagar via boleto?,"**Pergunta:** Posso pagar via boleto?
+
+**Resposta:** Você pode atualizar o método de pagamento no painel em Conta → Pagamento. A atualização vale para próximas renovações.",financeiro
+105,Uso Aceitável: O que é considerado uso indevido da plataforma?,"**Pergunta:** O que é considerado uso indevido da plataforma?
+
+**Resposta:** Podemos aplicar limites de requisição para proteger a estabilidade. Em picos, a conta pode ser temporariamente limitada.",compliance
+106,Conta e Dados: Como exportar meus dados?,"**Pergunta:** Como exportar meus dados?
+
+**Resposta:** Para excluir a conta, solicite pelo painel ou suporte. Podemos manter dados mínimos para obrigações legais.",produto
+107,Planos e Upgrade: Quais planos a empresa oferece?,"**Pergunta:** Quais planos a empresa oferece?
+
+**Resposta:** Oferecemos planos com diferentes limites de usuários e recursos. A lista de recursos por plano está disponível na página de preços ou no painel.",produto
+108,Integrações: Como configurar webhooks?,"**Pergunta:** Como configurar webhooks?
+
+**Resposta:** API pode estar disponível para clientes empresariais. Consulte a documentação e as chaves de acesso.",produto
+109,Planos e Upgrade: Como faço upgrade ou downgrade de plano?,"**Pergunta:** Como faço upgrade ou downgrade de plano?
+
+**Resposta:** Seus dados permanecem na conta ao trocar de plano. Alguns recursos podem ficar indisponíveis dependendo do novo plano.",produto
+110,Faturas e Nota Fiscal: Posso alterar dados de faturamento?,"**Pergunta:** Posso alterar dados de faturamento?
+
+**Resposta:** O CNPJ emissor e a natureza do serviço aparecem na própria nota fiscal e na área de faturamento do painel.",financeiro
+111,Planos e Upgrade: Quais planos a empresa oferece?,"**Pergunta:** Quais planos a empresa oferece?
+
+**Resposta:** Oferecemos planos com diferentes limites de usuários e recursos. A lista de recursos por plano está disponível na página de preços ou no painel.",produto
+112,Conta e Dados: Como gerenciar usuários e permissões?,"**Pergunta:** Como gerenciar usuários e permissões?
+
+**Resposta:** Recuperação de itens apagados depende do tipo de dado e do prazo. Em geral, há uma janela limitada para restauração.",produto
+113,Reembolso: Como funciona a política de reembolso?,"**Pergunta:** Como funciona a política de reembolso?
+
+**Resposta:** Para solicitar, abra um ticket com o e-mail cadastrado, informe o motivo e anexe comprovantes (quando aplicável). O retorno ocorre em até 2 dias úteis.",financeiro
+114,Treinamento e Onboarding: Vocês oferecem treinamento para a equipe?,"**Pergunta:** Vocês oferecem treinamento para a equipe?
+
+**Resposta:** A central de ajuda reúne tutoriais, FAQs, exemplos e resolução de problemas mais comuns.",sucesso_cliente
+115,Cobrança: Posso pagar via boleto?,"**Pergunta:** Posso pagar via boleto?
+
+**Resposta:** Boleto pode estar disponível apenas para planos anuais ou empresas (B2B), sujeito a análise.",financeiro
+116,Suporte e SLA: Quais canais de suporte estão disponíveis?,"**Pergunta:** Quais canais de suporte estão disponíveis?
+
+**Resposta:** O suporte está disponível via e-mail e portal de tickets. Em planos elegíveis, também via chat.",suporte
+117,Cancelamento: O que acontece após o cancelamento?,"**Pergunta:** O que acontece após o cancelamento?
+
+**Resposta:** O cancelamento pode ser feito no painel do cliente em Conta → Assinatura. Ao confirmar, a renovação automática é desativada.",financeiro
+118,Acesso e Login: Como ativar autenticação em dois fatores (2FA)?,"**Pergunta:** Como ativar autenticação em dois fatores (2FA)?
+
+**Resposta:** Bloqueios podem ocorrer por tentativas excessivas, suspeita de fraude ou violação de políticas. Contate o suporte para desbloqueio.",suporte
+119,Cobrança: Quando ocorre a cobrança do plano?,"**Pergunta:** Quando ocorre a cobrança do plano?
+
+**Resposta:** Você pode atualizar o método de pagamento no painel em Conta → Pagamento. A atualização vale para próximas renovações.",financeiro
+120,Acesso e Login: Esqueci minha senha. Como recuperar?,"**Pergunta:** Esqueci minha senha. Como recuperar?
+
+**Resposta:** Login social (Google/Microsoft) pode estar disponível dependendo do seu plano e das configurações da empresa.",suporte
+121,Faturas e Nota Fiscal: Onde encontro minhas faturas?,"**Pergunta:** Onde encontro minhas faturas?
+
+**Resposta:** As faturas ficam disponíveis no painel em Conta → Faturas. Você pode baixar em PDF a qualquer momento.",financeiro
+122,Acesso e Login: Por que minha conta foi bloqueada?,"**Pergunta:** Por que minha conta foi bloqueada?
+
+**Resposta:** O 2FA pode ser ativado em Conta → Segurança. Após ativar, você precisará do código do aplicativo autenticador.",suporte
+123,Faturas e Nota Fiscal: Onde encontro minhas faturas?,"**Pergunta:** Onde encontro minhas faturas?
+
+**Resposta:** Emitimos nota fiscal eletrônica automaticamente para assinaturas ativas. Os dados fiscais são os informados no cadastro.",financeiro
+124,Segurança: Como a empresa protege meus dados?,"**Pergunta:** Como a empresa protege meus dados?
+
+**Resposta:** Dados em trânsito utilizam TLS. Dados sensíveis podem ser criptografados em repouso conforme o tipo de informação.",seguranca
+125,Integrações: Há API pública?,"**Pergunta:** Há API pública?
+
+**Resposta:** Você pode revogar tokens a qualquer momento no painel de integrações para interromper acessos.",produto
+126,Treinamento e Onboarding: Vocês oferecem treinamento para a equipe?,"**Pergunta:** Vocês oferecem treinamento para a equipe?
+
+**Resposta:** A central de ajuda reúne tutoriais, FAQs, exemplos e resolução de problemas mais comuns.",sucesso_cliente
+127,Cobrança: Quando ocorre a cobrança do plano?,"**Pergunta:** Quando ocorre a cobrança do plano?
+
+**Resposta:** Boleto pode estar disponível apenas para planos anuais ou empresas (B2B), sujeito a análise.",financeiro
+128,Reembolso: Como é calculado o reembolso em cancelamento antecipado?,"**Pergunta:** Como é calculado o reembolso em cancelamento antecipado?
+
+**Resposta:** Reembolsos são aplicáveis quando há cobrança indevida, erro de processamento ou quando a solicitação ocorre dentro do período de arrependimento (7 dias).",financeiro
+129,Faturas e Nota Fiscal: Qual é o CNPJ emissor e a natureza do serviço?,"**Pergunta:** Qual é o CNPJ emissor e a natureza do serviço?
+
+**Resposta:** Para corrigir dados de faturamento, atualize o cadastro antes do próximo ciclo. Notas emitidas não podem ser alteradas, mas podemos emitir carta de correção quando aplicável.",financeiro
+130,Planos e Upgrade: Como faço upgrade ou downgrade de plano?,"**Pergunta:** Como faço upgrade ou downgrade de plano?
+
+**Resposta:** Upgrade é aplicado imediatamente, com cobrança proporcional do período restante. Downgrade entra em vigor na próxima renovação.",produto
+131,Reembolso: Em quais casos tenho direito a reembolso?,"**Pergunta:** Em quais casos tenho direito a reembolso?
+
+**Resposta:** O estorno no cartão pode levar de 5 a 15 dias úteis, dependendo da operadora. Para boleto, realizamos transferência em conta indicada pelo titular.",financeiro
+132,Acesso e Login: Posso usar login com Google/Microsoft?,"**Pergunta:** Posso usar login com Google/Microsoft?
+
+**Resposta:** Para recuperar a senha, use ‘Esqueci minha senha’ na tela de login. Enviaremos um link para o e-mail cadastrado.",suporte
+133,Treinamento e Onboarding: Existe central de ajuda com tutoriais?,"**Pergunta:** Existe central de ajuda com tutoriais?
+
+**Resposta:** A central de ajuda reúne tutoriais, FAQs, exemplos e resolução de problemas mais comuns.",sucesso_cliente
+134,Conta e Dados: Como gerenciar usuários e permissões?,"**Pergunta:** Como gerenciar usuários e permissões?
+
+**Resposta:** Recuperação de itens apagados depende do tipo de dado e do prazo. Em geral, há uma janela limitada para restauração.",produto
+135,Reembolso: Como funciona a política de reembolso?,"**Pergunta:** Como funciona a política de reembolso?
+
+**Resposta:** Para solicitar, abra um ticket com o e-mail cadastrado, informe o motivo e anexe comprovantes (quando aplicável). O retorno ocorre em até 2 dias úteis.",financeiro
+136,Cobrança: Como atualizar o cartão de pagamento?,"**Pergunta:** Como atualizar o cartão de pagamento?
+
+**Resposta:** A cobrança ocorre no início de cada ciclo (mensal/anual), na data da contratação ou da renovação.",financeiro
+137,Cancelamento: Há multa de cancelamento?,"**Pergunta:** Há multa de cancelamento?
+
+**Resposta:** Não há multa para cancelamento de planos mensais. Em planos anuais, pode haver cálculo proporcional conforme contrato.",financeiro
+138,Integrações: Há API pública?,"**Pergunta:** Há API pública?
+
+**Resposta:** Você pode revogar tokens a qualquer momento no painel de integrações para interromper acessos.",produto
+139,Uso Aceitável: O que é considerado uso indevido da plataforma?,"**Pergunta:** O que é considerado uso indevido da plataforma?
+
+**Resposta:** Violações podem levar a suspensão temporária ou encerramento da conta, conforme gravidade e reincidência.",compliance
+140,Uso Aceitável: Posso compartilhar minha conta com terceiros?,"**Pergunta:** Posso compartilhar minha conta com terceiros?
+
+**Resposta:** Podemos aplicar limites de requisição para proteger a estabilidade. Em picos, a conta pode ser temporariamente limitada.",compliance
