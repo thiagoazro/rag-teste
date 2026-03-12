@@ -108,7 +108,7 @@ Agora:
 ## Deploy no Render
 
 O projeto inclui `render.yaml`, com start command do Streamlit.
-Tambem inclui `.python-version` para forcar Python 3.11.11 no Render e evitar erro de build do `pandas`.
+No Render, mantenha `PYTHON_VERSION=3.11.11` para evitar erro de build do `pandas`.
 
 No painel do Render:
 
